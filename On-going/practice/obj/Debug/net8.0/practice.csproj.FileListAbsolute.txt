@@ -1,0 +1,15 @@
+D:\Github\Csharp\On-going\practice\bin\Debug\net8.0\practice.exe
+D:\Github\Csharp\On-going\practice\bin\Debug\net8.0\practice.deps.json
+D:\Github\Csharp\On-going\practice\bin\Debug\net8.0\practice.runtimeconfig.json
+D:\Github\Csharp\On-going\practice\bin\Debug\net8.0\practice.dll
+D:\Github\Csharp\On-going\practice\bin\Debug\net8.0\practice.pdb
+D:\Github\Csharp\On-going\practice\obj\Debug\net8.0\practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Csharp\On-going\practice\obj\Debug\net8.0\practice.AssemblyInfoInputs.cache
+D:\Github\Csharp\On-going\practice\obj\Debug\net8.0\practice.AssemblyInfo.cs
+D:\Github\Csharp\On-going\practice\obj\Debug\net8.0\practice.csproj.CoreCompileInputs.cache
+D:\Github\Csharp\On-going\practice\obj\Debug\net8.0\practice.sourcelink.json
+D:\Github\Csharp\On-going\practice\obj\Debug\net8.0\practice.dll
+D:\Github\Csharp\On-going\practice\obj\Debug\net8.0\refint\practice.dll
+D:\Github\Csharp\On-going\practice\obj\Debug\net8.0\practice.pdb
+D:\Github\Csharp\On-going\practice\obj\Debug\net8.0\practice.genruntimeconfig.cache
+D:\Github\Csharp\On-going\practice\obj\Debug\net8.0\ref\practice.dll

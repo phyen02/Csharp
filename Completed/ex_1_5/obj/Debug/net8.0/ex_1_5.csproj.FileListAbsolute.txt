@@ -1,0 +1,15 @@
+D:\Github\Csharp\On-going\ex_1_5\bin\Debug\net8.0\ex_1_5.exe
+D:\Github\Csharp\On-going\ex_1_5\bin\Debug\net8.0\ex_1_5.deps.json
+D:\Github\Csharp\On-going\ex_1_5\bin\Debug\net8.0\ex_1_5.runtimeconfig.json
+D:\Github\Csharp\On-going\ex_1_5\bin\Debug\net8.0\ex_1_5.dll
+D:\Github\Csharp\On-going\ex_1_5\bin\Debug\net8.0\ex_1_5.pdb
+D:\Github\Csharp\On-going\ex_1_5\obj\Debug\net8.0\ex_1_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Csharp\On-going\ex_1_5\obj\Debug\net8.0\ex_1_5.AssemblyInfoInputs.cache
+D:\Github\Csharp\On-going\ex_1_5\obj\Debug\net8.0\ex_1_5.AssemblyInfo.cs
+D:\Github\Csharp\On-going\ex_1_5\obj\Debug\net8.0\ex_1_5.csproj.CoreCompileInputs.cache
+D:\Github\Csharp\On-going\ex_1_5\obj\Debug\net8.0\ex_1_5.sourcelink.json
+D:\Github\Csharp\On-going\ex_1_5\obj\Debug\net8.0\ex_1_5.dll
+D:\Github\Csharp\On-going\ex_1_5\obj\Debug\net8.0\refint\ex_1_5.dll
+D:\Github\Csharp\On-going\ex_1_5\obj\Debug\net8.0\ex_1_5.pdb
+D:\Github\Csharp\On-going\ex_1_5\obj\Debug\net8.0\ex_1_5.genruntimeconfig.cache
+D:\Github\Csharp\On-going\ex_1_5\obj\Debug\net8.0\ref\ex_1_5.dll
