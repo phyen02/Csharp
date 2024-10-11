@@ -1,0 +1,15 @@
+d:\Github\Csharp\Completed\1_1\bin\Debug\net7.0\inout.exe
+d:\Github\Csharp\Completed\1_1\bin\Debug\net7.0\inout.deps.json
+d:\Github\Csharp\Completed\1_1\bin\Debug\net7.0\inout.runtimeconfig.json
+d:\Github\Csharp\Completed\1_1\bin\Debug\net7.0\inout.dll
+d:\Github\Csharp\Completed\1_1\bin\Debug\net7.0\inout.pdb
+d:\Github\Csharp\Completed\1_1\obj\Debug\net7.0\inout.csproj.AssemblyReference.cache
+d:\Github\Csharp\Completed\1_1\obj\Debug\net7.0\inout.GeneratedMSBuildEditorConfig.editorconfig
+d:\Github\Csharp\Completed\1_1\obj\Debug\net7.0\inout.AssemblyInfoInputs.cache
+d:\Github\Csharp\Completed\1_1\obj\Debug\net7.0\inout.AssemblyInfo.cs
+d:\Github\Csharp\Completed\1_1\obj\Debug\net7.0\inout.csproj.CoreCompileInputs.cache
+d:\Github\Csharp\Completed\1_1\obj\Debug\net7.0\inout.dll
+d:\Github\Csharp\Completed\1_1\obj\Debug\net7.0\refint\inout.dll
+d:\Github\Csharp\Completed\1_1\obj\Debug\net7.0\inout.pdb
+d:\Github\Csharp\Completed\1_1\obj\Debug\net7.0\inout.genruntimeconfig.cache
+d:\Github\Csharp\Completed\1_1\obj\Debug\net7.0\ref\inout.dll
