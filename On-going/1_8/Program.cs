@@ -1,7 +1,6 @@
 ﻿/*
 In ra 1 ma trận số cho trước và 1 ma trận số ngẫu nhiên
-1. Dùng while
-2. Dùng do while
+Dùng while và do-while
 */
 
 using System;
@@ -12,16 +11,16 @@ namespace System
     {
         public static void Main(string[] args)
         {
-            MatrixWhile();
-            MatrixDoWhile();
+            Matrix();
+            //MatrixRandom();
         }
 
-        public void MatrixWhile()
+        static void Matrix()
         {
-
+            
         }
 
-        public void MatrixDoWhile()
+        static void MatrixRandom()
         {
 
         }
