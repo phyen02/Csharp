@@ -1,0 +1,15 @@
+D:\Github\Csharp\On-going\1_17\src\bin\Debug\net8.0\src.exe
+D:\Github\Csharp\On-going\1_17\src\bin\Debug\net8.0\src.deps.json
+D:\Github\Csharp\On-going\1_17\src\bin\Debug\net8.0\src.runtimeconfig.json
+D:\Github\Csharp\On-going\1_17\src\bin\Debug\net8.0\src.dll
+D:\Github\Csharp\On-going\1_17\src\bin\Debug\net8.0\src.pdb
+D:\Github\Csharp\On-going\1_17\src\obj\Debug\net8.0\src.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Csharp\On-going\1_17\src\obj\Debug\net8.0\src.AssemblyInfoInputs.cache
+D:\Github\Csharp\On-going\1_17\src\obj\Debug\net8.0\src.AssemblyInfo.cs
+D:\Github\Csharp\On-going\1_17\src\obj\Debug\net8.0\src.csproj.CoreCompileInputs.cache
+D:\Github\Csharp\On-going\1_17\src\obj\Debug\net8.0\src.sourcelink.json
+D:\Github\Csharp\On-going\1_17\src\obj\Debug\net8.0\src.dll
+D:\Github\Csharp\On-going\1_17\src\obj\Debug\net8.0\refint\src.dll
+D:\Github\Csharp\On-going\1_17\src\obj\Debug\net8.0\src.pdb
+D:\Github\Csharp\On-going\1_17\src\obj\Debug\net8.0\src.genruntimeconfig.cache
+D:\Github\Csharp\On-going\1_17\src\obj\Debug\net8.0\ref\src.dll
