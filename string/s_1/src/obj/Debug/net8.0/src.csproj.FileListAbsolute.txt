@@ -1,0 +1,15 @@
+d:\Github\Csharp\string\s_1\src\obj\Debug\net8.0\src.GeneratedMSBuildEditorConfig.editorconfig
+d:\Github\Csharp\string\s_1\src\obj\Debug\net8.0\src.AssemblyInfoInputs.cache
+d:\Github\Csharp\string\s_1\src\obj\Debug\net8.0\src.AssemblyInfo.cs
+d:\Github\Csharp\string\s_1\src\obj\Debug\net8.0\src.csproj.CoreCompileInputs.cache
+d:\Github\Csharp\string\s_1\src\obj\Debug\net8.0\src.sourcelink.json
+d:\Github\Csharp\string\s_1\src\bin\Debug\net8.0\src.exe
+d:\Github\Csharp\string\s_1\src\bin\Debug\net8.0\src.deps.json
+d:\Github\Csharp\string\s_1\src\bin\Debug\net8.0\src.runtimeconfig.json
+d:\Github\Csharp\string\s_1\src\bin\Debug\net8.0\src.dll
+d:\Github\Csharp\string\s_1\src\bin\Debug\net8.0\src.pdb
+d:\Github\Csharp\string\s_1\src\obj\Debug\net8.0\src.dll
+d:\Github\Csharp\string\s_1\src\obj\Debug\net8.0\refint\src.dll
+d:\Github\Csharp\string\s_1\src\obj\Debug\net8.0\src.pdb
+d:\Github\Csharp\string\s_1\src\obj\Debug\net8.0\src.genruntimeconfig.cache
+d:\Github\Csharp\string\s_1\src\obj\Debug\net8.0\ref\src.dll
