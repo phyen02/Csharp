@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Csharp\\advance\\Multi Task WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75C57B2E-E380-4156-8226-052918002787}|WPF_Multi_Task\\WPF_Multi_Task.csproj|D:\\Github\\Csharp\\advance\\Multi Task WPF\\wpf_multi_task\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C57B2E-E380-4156-8226-052918002787}|WPF_Multi_Task\\WPF_Multi_Task.csproj|solutionrelative:wpf_multi_task\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C57B2E-E380-4156-8226-052918002787}|WPF_Multi_Task\\WPF_Multi_Task.csproj|d:\\github\\csharp\\advance\\multi task wpf\\wpf_multi_task\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75C57B2E-E380-4156-8226-052918002787}|WPF_Multi_Task\\WPF_Multi_Task.csproj|solutionrelative:wpf_multi_task\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C57B2E-E380-4156-8226-052918002787}|WPF_Multi_Task\\WPF_Multi_Task.csproj|D:\\Github\\Csharp\\advance\\Multi Task WPF\\wpf_multi_task\\model\\profiledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C57B2E-E380-4156-8226-052918002787}|WPF_Multi_Task\\WPF_Multi_Task.csproj|solutionrelative:wpf_multi_task\\model\\profiledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C57B2E-E380-4156-8226-052918002787}|WPF_Multi_Task\\WPF_Multi_Task.csproj|D:\\Github\\Csharp\\advance\\Multi Task WPF\\wpf_multi_task\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{75C57B2E-E380-4156-8226-052918002787}|WPF_Multi_Task\\WPF_Multi_Task.csproj|solutionrelative:wpf_multi_task\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C57B2E-E380-4156-8226-052918002787}|WPF_Multi_Task\\WPF_Multi_Task.csproj|D:\\Github\\Csharp\\advance\\Multi Task WPF\\wpf_multi_task\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C57B2E-E380-4156-8226-052918002787}|WPF_Multi_Task\\WPF_Multi_Task.csproj|solutionrelative:wpf_multi_task\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C57B2E-E380-4156-8226-052918002787}|WPF_Multi_Task\\WPF_Multi_Task.csproj|D:\\Github\\Csharp\\advance\\Multi Task WPF\\wpf_multi_task\\model\\settingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C57B2E-E380-4156-8226-052918002787}|WPF_Multi_Task\\WPF_Multi_Task.csproj|solutionrelative:wpf_multi_task\\model\\settingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 249,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Github\\Csharp\\advance\\Multi Task WPF\\WPF_Multi_Task\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_Multi_Task\\MainWindow.xaml",
+              "ToolTip": "D:\\Github\\Csharp\\advance\\Multi Task WPF\\WPF_Multi_Task\\MainWindow.xaml",
+              "RelativeToolTip": "WPF_Multi_Task\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T17:30:44.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "D:\\Github\\Csharp\\advance\\Multi Task WPF\\WPF_Multi_Task\\ViewModel\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "WPF_Multi_Task\\ViewModel\\BaseViewModel.cs",
+              "ToolTip": "D:\\Github\\Csharp\\advance\\Multi Task WPF\\WPF_Multi_Task\\ViewModel\\BaseViewModel.cs",
+              "RelativeToolTip": "WPF_Multi_Task\\ViewModel\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:46:57.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SettingData.cs",
+              "DocumentMoniker": "D:\\Github\\Csharp\\advance\\Multi Task WPF\\WPF_Multi_Task\\Model\\SettingData.cs",
+              "RelativeDocumentMoniker": "WPF_Multi_Task\\Model\\SettingData.cs",
+              "ToolTip": "D:\\Github\\Csharp\\advance\\Multi Task WPF\\WPF_Multi_Task\\Model\\SettingData.cs",
+              "RelativeToolTip": "WPF_Multi_Task\\Model\\SettingData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:53:34.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProfileDetail.cs",
+              "DocumentMoniker": "D:\\Github\\Csharp\\advance\\Multi Task WPF\\WPF_Multi_Task\\Model\\ProfileDetail.cs",
+              "RelativeDocumentMoniker": "WPF_Multi_Task\\Model\\ProfileDetail.cs",
+              "ToolTip": "D:\\Github\\Csharp\\advance\\Multi Task WPF\\WPF_Multi_Task\\Model\\ProfileDetail.cs",
+              "RelativeToolTip": "WPF_Multi_Task\\Model\\ProfileDetail.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:53:34.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\Github\\Csharp\\advance\\Multi Task WPF\\WPF_Multi_Task\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "WPF_Multi_Task\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "D:\\Github\\Csharp\\advance\\Multi Task WPF\\WPF_Multi_Task\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "WPF_Multi_Task\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAYwMIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:53:35.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Github\\Csharp\\advance\\Multi Task WPF\\WPF_Multi_Task\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_Multi_Task\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Github\\Csharp\\advance\\Multi Task WPF\\WPF_Multi_Task\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF_Multi_Task\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:32:52.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

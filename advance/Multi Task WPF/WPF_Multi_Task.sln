@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Multi_Task", "WPF_Multi_Task\WPF_Multi_Task.csproj", "{75C57B2E-E380-4156-8226-052918002787}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75C57B2E-E380-4156-8226-052918002787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C57B2E-E380-4156-8226-052918002787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C57B2E-E380-4156-8226-052918002787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C57B2E-E380-4156-8226-052918002787}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80E97A3A-CCDD-472B-A139-2322EF04C50A}
+	EndGlobalSection
+EndGlobal
