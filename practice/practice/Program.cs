@@ -1,6 +1,17 @@
 ﻿/*
-Write a function which calculates the average of the numbers in a given array.
-Note: Empty arrays should return 0.
+Jaden Smith, the son of Will Smith, is the star of films such as The Karate Kid (2010)
+and After Earth (2013). Jaden is also known for some of his philosophy that he delivers via Twitter.
+When writing on Twitter, he is known for almost always capitalizing every word.
+For simplicity, you'll have to capitalize each word, check out how contractions are expected
+to be in the example below.
+
+Your task is to convert strings to how they would be written by Jaden Smith.
+The strings are actual quotes from Jaden Smith, but they are not capitalized in
+the same way he originally typed them.
+
+Example:
+Not Jaden-Cased: "How can mirrors be real if our eyes aren't real"
+Jaden-Cased:     "How Can Mirrors Be Real If Our Eyes Aren't Real"
 */
 
 namespace CodeWar
@@ -9,31 +20,27 @@ namespace CodeWar
     {
         public static void Main(string[] args)
         {
-            double[] array = new double[] { 17, 16, 16, 16, 16, 15, 17, 17, 15, 5, 17, 17, 16 };
-            double[] array2 = new double[]{};
-            double ave = FindAverage(array);
-            double ave2 = FindAverage(array2);
-            Console.WriteLine(ave);
-            Console.WriteLine(ave2);
+            string phrase = "How can mirrors be real if our eyes aren't real";
+            Console.WriteLine(phrase.ToJadenCase());
         }
 
-        public static double FindAverage(double[] array)
+        public static string ToJadenCase(this string phrase)
         {
-            double average;
-            double sum = 0;
-            int count = 0;
-            for (int i = 0; i < array.Length; i++)
+            string[] sentences = phrase.Split(' ');
+
+            if (phrase == null)
             {
-                sum += array[i];
-                count++;
+                return string.Empty;
             }
-            average = sum / array.Length;
-            
-            if (count > 0)
+            else
             {
-                return average;
+                for (int i = 0; i < sentences.Length; i++)
+                {
+                    sentences[i] = sentences[i][0].ToString().ToUpper() + sentences[i].Substring(1).ToString().ToLower();
+                }
             }
-            return 0;
+
+            return string.Join(" ", sentences);
         }
     }
 }
