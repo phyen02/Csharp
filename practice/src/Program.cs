@@ -1,15 +1,12 @@
 ﻿/*
-In this simple assignment you are given a number and have to make it negative.
-But maybe the number is already negative?
-
-Examples
-Kata.MakeNegative(1);  // return -1
-Kata.MakeNegative(-5); // return -5
-Kata.MakeNegative(0);  // return 0
-Notes
-The number can be negative already, in which case no change is required.
-Zero (0) is not checked for any specific sign. Negative zeros make no mathematical sense.
+Write a function that removes the spaces from the string, then return the resultant string.
+Examples (Input -> Output):
+"8 j 8   mBliB8g  imjB8B8  jl  B" -> "8j8mBliB8gimjB8B8jlB"
+"8 8 Bi fk8h B 8 BB8B B B  B888 c hl8 BhB fd" -> "88Bifk8hB8BB8BBBB888chl8BhBfd"
+"8aaaaa dddd r     " -> "8aaaaaddddr"
 */
+
+using System.Globalization;
 
 namespace Program
 {
@@ -17,13 +14,13 @@ namespace Program
     {
         public static void Main(string[] args)
         {
-            
+            Console.WriteLine(XO("xxoo"));
+            Console.WriteLine(XO("xxooo"));
         }
 
-        public static int MakeNegative(int number)
+        public static bool XO(string input)
         {
-            
-            return 0;
+            return input.ToLower().Count(i => i == 'x') == input.ToLower().Count(i => i == 'o');
         }
     }
 }
